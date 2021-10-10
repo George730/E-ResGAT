@@ -14,6 +14,7 @@ Besides, the original E-GraphSAGE and GAT are also implemented. One can simply r
 
 ### Installation
 This implementation requires Python 3.X. See `requirements.txt` for a list installed packages and their versions. The main packages are:
+
         numpy
         pytorch
         scikit-learn
