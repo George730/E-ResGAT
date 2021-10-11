@@ -1,3 +1,11 @@
+"""============================================================================
+Class for E-ResGAT
+
+Heavily rely on implementation 3 of pytorch-GAT github:
+https://github.com/gordicaleksa/pytorch-GAT
+
+============================================================================"""
+
 import torch
 import torch.nn as nn
 import numpy as np
